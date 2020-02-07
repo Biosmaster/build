@@ -1,1 +1,1 @@
-web: java -Dfile.encoding=UTF8 -server -jar TO2013/server.jar
+web: java -Dfile.encoding=UTF8 -server -jar server.jar
